@@ -8,8 +8,7 @@ repo_url: https://github.com/mvasilchuk/stbemu-docs
 pages:
 - Home: index.md
 - User Guide: user-guide.md
-    - Configuration:
-        - Basic Configuration: configuration/basic.md
+    - Configuration: configuration/index.md
         - Common Settings: configuration/common-settings/index.md
         - Profiles: configuration/profiles/index.md
 - About:
