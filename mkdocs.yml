@@ -19,9 +19,9 @@ pages:
 #extra_css:
 #    - css/extra.css
 
-markdown_extensions:
-  - toc:
-    permalink: 
-  - admonition:
+#markdown_extensions:
+#  - toc:
+#    permalink:
+#  - admonition:
 
 copyright: Copyright &copy; 2017 Maxim Vasilchuk
