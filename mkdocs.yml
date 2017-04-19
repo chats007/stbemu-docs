@@ -1,0 +1,28 @@
+site_name: StbEmu Docs
+site_url: http://docs.stbemu.com
+site_description: StbEmu documentation.
+site_author: Maxim Vasilchuk
+
+repo_url: https://github.com/mvasilchuk/stbemu-docs
+
+pages:
+- Home: index.md
+- User Guide: user-guide.md
+    - Configuration:
+        - Basic Configuration: configuration/basic.md
+        - Common Settings: configuration/common-settings/index.md
+        - Profiles: configuration/profiles/index.md
+- About:
+    - Release Notes: about/release-notes.md
+    - Contributing: about/contributing.md
+    - License: about/license.md
+
+#extra_css:
+#    - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition:
+
+copyright: Copyright &copy; 2017 Maxim Vasilchuk
